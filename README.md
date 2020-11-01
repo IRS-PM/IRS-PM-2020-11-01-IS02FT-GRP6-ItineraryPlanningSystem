@@ -13,12 +13,12 @@ Besides, personalized itinerary planning services are provided by the system. Th
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
-| :------------ |:---------------:| :-----| :-----|
-| LIN Ying Lin | A0215298X | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| anitalyl22@gmail.com |
-| SONG Bing Heng | A0215496X | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| songbingheng17@foxmail.com |
-| XIONG Hui | A0215431U | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| ArlenaXiong@gmail.com |
-| ZUO Zong Yuan | A0215291L | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| eternalphane@gmail.com |
+| Official Full Name | Student ID (MTech Applicable) | Work Items (Who Did What)                                    | Email (Optional)           |
+| :----------------- | :---------------------------: | :----------------------------------------------------------- | :------------------------- |
+| LIN Ying Lin       |           A0215298X           | Project design, market research, report, video presentation and Web front-end development | anitalyl22@gmail.com       |
+| SONG Bing Heng     |           A0215496X           | Data collection (Latitude and longitude information and tour time information) and Back-end development (Algorithm, generate result image and recommended tour plan) | songbingheng17@foxmail.com |
+| XIONG Hui          |           A0215431U           | project idea proposer, system design, Web front-end development, project manager, report and video manufacture | ArlenaXiong@gmail.com      |
+| ZUO Zong Yuan      |           A0215291L           |                                                              | eternalphane@gmail.com     |
 
 ---
 
@@ -33,32 +33,13 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
+### To run the system in local machine:
 
-### [ 1 ] To run the system using iss-vm
+`Refer to project report at Github Folder: ProjectReport`
 
-> download pre-built virtual machine from http://bit.ly/iss-vm
+Run the app.py file in the folder, and the flask project will start. 
 
-> start iss-vm
-
-> open terminal in iss-vm
-
-> $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
-
-> $ source activate iss-env-py2
-
-> (iss-env-py2) $ cd Workshop-Project-Submission-Template/SystemCode/clips
-
-> (iss-env-py2) $ python app.py
-
-> **Go to URL using web browser** http://0.0.0.0:5000 or http://127.0.0.1:5000
-
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
-
-> $ sudo apt-get install python-clips clips build-essential libssl-dev libffi-dev python-dev python-pip
-
-> $ pip install pyclips flask flask-socketio eventlet simplejson pandas
+Open a browser and input url : localhost:5000  in the address bar to jump to the main page 
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER

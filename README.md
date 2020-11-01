@@ -8,6 +8,7 @@ With the development of society and improvement of material life, more and more 
 In the era of fragmentation and mobile Internet, considering that users will prefer one-stop solutions to shorten the travel decision-making process as much as possible. The itinerary planning system is designed and developed for young users in the free travel market. There is an artistically designed, stylish, and user-friendly UI interface, which intuitively allows users to self-direct the entire travel process while having a deep experience.  
 
 Besides, personalized itinerary planning services are provided by the system. The generated itinerary planning proposal is mainly influenced by two factors: one is the shortest distance between the destinations selected by the user, and the other one is the travel time per day preferred by the user, which is indicated from the selected travel way. Just follow the process shown on the interface, choose the scenic spots to visit and the type used to travel, and then the user can easily generate a customized itinerary. 
+
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION

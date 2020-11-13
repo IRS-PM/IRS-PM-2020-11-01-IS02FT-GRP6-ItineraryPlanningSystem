@@ -1,7 +1,7 @@
 # IRS-PM-2020-11-01-IS02FT-GRP6-ItineraryPlanningSystem
 ## SECTION 1 : PROJECT TITLE
 ## ItineraryPlanningSystem
-[![ItineraryPlanningSystem](Miscellaneous/VideoThumbnail.jpg)]
+![ItineraryPlanningSystem](Miscellaneous/VideoThumbnail.jpg)
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 With the development of society and improvement of material life, more and more people are accepting and willing to travel regularly. Whether the purpose of traveling is for a short break or to explore the unknown, nobody wants to spend too much energy and time on the preparatory part such as itinerary planning.  
 

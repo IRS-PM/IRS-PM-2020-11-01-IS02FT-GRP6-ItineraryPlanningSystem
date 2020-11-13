@@ -18,7 +18,7 @@ Besides, personalized itinerary planning services are provided by the system. Th
 | LIN Ying Lin       |           A0215298X           | Project design, market research, report, video presentation and Web front-end development | anitalyl22@gmail.com       |
 | SONG Bing Heng     |           A0215496X           | Data collection (Latitude and longitude information and tour time information) and Back-end development (Algorithm, generate result image and recommended tour plan) | songbingheng17@foxmail.com |
 | XIONG Hui          |           A0215431U           | project idea proposer, system design, Web front-end development, project manager, report and video manufacture | ArlenaXiong@gmail.com      |
-| ZUO Zong Yuan      |           A0215291L           |                                                              | eternalphane@gmail.com     |
+| ZUO Zong Yuan      |           A0215291L           | Collect and build the knowledge base, system architecture design and project report | eternalphane@gmail.com     |
 
 ---
 

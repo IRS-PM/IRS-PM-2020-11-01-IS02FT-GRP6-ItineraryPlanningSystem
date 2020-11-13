@@ -45,7 +45,7 @@ Open a browser and input url : localhost:5000  in the address bar to jump to the
 ## SECTION 6 : PROJECT REPORT / PAPER
 
 `Refer to project report at Github Folder: ProjectReport`
-
+[![ItineraryPlanningSytem](ProjectReport/ItineraryPlanFinalReport.pdf)]
 - Executive Summary
 - Business Problem Background
 - Knowledge Base

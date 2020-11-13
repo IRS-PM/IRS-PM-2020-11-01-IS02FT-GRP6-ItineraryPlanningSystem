@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Itinerary Planning</title>
+    <script src="../static/assets/js/jquery.min.js"></script>
+    <link rel="stylesheet" href="../static/assets/css/bootstrap.min.css">
+    <script src="../static/assets/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+
+    <div class="navbar">
+    </div>
+
+
+        <!-- 内容区域 -->
+                <div class="card" style="margin-left: 10%;border: none">
+
+                    <div class="card-body">
+                        <div class="widget am-cf">
+                            <div class="widget-head am-cf">
+                                <div class="widget-title am-fl" style="font-weight: bold;font-size: 30px">ITINERARY PLANNING</div>
+                                <div class="widget-function am-fr">
+                                    <a href="javascript:;" class="am-icon-cog"></a>
+                                </div>
+                            </div>
+
+                            <div class="widget-body am-fr">
+
+                                <form class="am-form tpl-form-border-form tpl-form-border-br" method="post" action="submit_path">
+                                    <img src="../static/assets/plots/{{ data[1] }}.png">
+                                <hr>
+
+                                <div class="am-form-group">
+                                        <label for="user-name" class="am-u-sm-3 am-form-label">Recommended Tour Plan :</label>
+                                        <!--<div class="am-u-sm-9">
+                                            <label for="user-name" >(suppose you travel 12 hours a day)</label>
+                                        </div>-->
+                                    </div>
+{#                                    <input type="hidden" name="path_num" id="path_num" value="1" />#}
+                                    {%   for key in data[2] %}
+                                    <div class="am-form-group">
+                                        <label for="user-name" class="am-u-sm-3 am-form-label">day {{ key }}</label>
+                                        <div class="am-u-sm-9">
+                                            {% for sub_data in data[2][key] %}
+                                            <label for="user-name" class="am-form-label">{{ sub_data }}</label>
+                                                <br>
+                                            {% endfor  %}
+                                        </div>
+                                    </div>
+                                    {% endfor  %}
+
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+</body>
+
+</html>

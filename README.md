@@ -24,10 +24,8 @@ Besides, personalized itinerary planning services are provided by the system. Th
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Itinerary Planning System](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](IRS-PM-2020-11-01-IS02FT-GRP6-IniteraryPlanningSystem.mp4)
+[![Itinerary Planning System](Miscellaneous/VideoThumbnail.png)](IRS-PM-2020-11-01-IS02FT-GRP6-IniteraryPlanningSystem.mp4)
 
-Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
-More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
 
 ---
 
